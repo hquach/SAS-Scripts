@@ -1,7 +1,5 @@
 *SAS sample program;
 
-*SAS sample program
-
 options nocenter nonumber;
 
 data veg;
